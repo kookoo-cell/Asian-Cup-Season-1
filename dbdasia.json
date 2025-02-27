@@ -1,6 +1,6 @@
 {
 	"Name": "Asian Cup Season 1 edited",
-	"Version": 1740675155,
+	"Version": 1740677050,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Blight Serum add-on is universally banned",
 	"Tiers": [
@@ -850,7 +850,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				3,
+				5,
 				6
 			],
 			"KillerOfferings": [
